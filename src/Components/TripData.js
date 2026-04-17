@@ -1,5 +1,5 @@
 import "./TripStyles.css";
-import Trip from "./Trip";
+
 
 
 
@@ -7,7 +7,7 @@ function TripData(props){
     return(
         <div className="t-card"> 
         <div className="t-image">
-            <img src={props.image} alt="image" />
+            <img src={props.image} alt="Morocco destination"/>
         </div>
         <h4>{props.heading}</h4>
         <p>{props.text}</p>
