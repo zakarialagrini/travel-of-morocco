@@ -42,8 +42,9 @@ The contact form allows users to send messages using a simple frontend form inte
 ---
 
 ## 🌐 Live Demo
-- https://travel-of-morocco-git-main-zakarialagrinis-projects.vercel.app  
-- https://travel-of-morocco-8q8wc7tdw-zakarialagrinis-projects.vercel.app  
+You can view the live version of the project here:
+
+👉 https://travel-of-morocco.vercel.app/
 
 ---
 
